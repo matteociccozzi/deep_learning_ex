@@ -1,2 +1,2 @@
-# deep_learning_ex
-random exercises from a deep learning series course
+# Deep Learning Exercises 
+Random exercises from a deep learning series course on Udemy. 
